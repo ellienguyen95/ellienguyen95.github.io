@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: grey;
+}
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img.profilePic {
+    height: 100px;
+    width: 100px;
+    border: 2px solid #726060f0;
+    border-radius: 50px;
+}
+p.name {
+    font-size: 30px;
+    font-weight: bold;
+}
+p.info {
+    font-size: 20px;
+}
+span {
+    font-weight: bold;
+    color: rgb(59, 50, 50);
+}
+main img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid;
+    border-radius: 100px 0 100px 0;
+    margin-right: 10px;
+}
